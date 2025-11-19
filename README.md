@@ -18,3 +18,8 @@
 ### Livros sobre Projeto de Sistemas e Engenharia
 - [UML 2](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/UML%202%20-%20Uma%20Abordagem%20Pr%C3%A1tica.pdf)
 - [Principios de Análise e Projeto de Sistemas](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Principios%20De%20Analise%20E%20Projeto%20-%20Eduardo%20Bezerra.pdf)
+- [Engenharia de Software](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/engenharia-de-software-8a-ed-pressman-compactado.pdf)
+### Arquitetura de Computadores
+### Banco de Dados
+### POO
+### Sistemas Operacionais
