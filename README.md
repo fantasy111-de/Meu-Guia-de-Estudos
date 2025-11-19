@@ -15,4 +15,5 @@
 - [VisualGo](https://visualgo.net/en)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [DSA Visualizer](https://www.dsavisualizer.in/)
-## Livros sobre Projeto de Sistemas
+### Livros sobre Projeto de Sistemas
+- [UML 2](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/UML%202%20-%20Uma%20Abordagem%20Pr%C3%A1tica.pdf)
