@@ -8,7 +8,7 @@
 ### Comece aqui
 - [Curso Hardware](https://www.cursoemvideo.com/curso/hardware/)
 - [Curso Bases Númericas](https://www.cursoemvideo.com/curso/bases-numericas/)
-- [Livro Sistemas Digitais](
+- [Livro Sistemas Digitais](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Sistemas%20Digitais%20Princ%C3%ADpios%20e%20Aplica%C3%A7%C3%B5es%20(Ronald%20J.%20Tocci%2C%20Neal%20S.%20Widmer%20etc.).pdf)
 ### Sites para treinar programação
 - [Coddy](https://coddy.tech/)
 - [CodeForces](https://codeforces.com/)
