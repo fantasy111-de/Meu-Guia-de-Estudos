@@ -26,7 +26,7 @@
 ### Arquitetura/Redes de Computadores
 - [Curso](https://www.cursoemvideo.com/curso/redes-de-computadores/)
 - [Curso 2](https://www.cursoemvideo.com/curso/curso-pratico-de-redes-de-computadores-e-internet-20-horas/)
-- [Livro]
+- [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Organiza%C3%A7%C3%A3o%20estruturada%20de%20computadores%20-%20Tanenbaum.pdf)
 ### Banco de Dados
 - [Artigo Power Architect](https://www.alura.com.br/artigos/engenharia-direta-power-architect?srsltid=AfmBOortz1VZX7PL9KSBCpzfTG_JkIGduYG1yU1tERPMXLLOOzsqfv-r)
 ### POO
