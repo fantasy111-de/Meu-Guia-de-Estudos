@@ -56,3 +56,4 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Curso Linux](https://www.cursoemvideo.com/curso/linux/)
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Fundamentos%20de%20sistemas%20operacionais%20(Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%20etc.).pdf)
 
+### Segurança da Informação
