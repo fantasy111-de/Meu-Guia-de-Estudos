@@ -9,7 +9,7 @@
 - [Curso Hardware](https://www.cursoemvideo.com/curso/hardware/)
 - [Curso Bases Númericas](https://www.cursoemvideo.com/curso/bases-numericas/)
 - [Livro Sistemas Digitais](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Sistemas%20Digitais%20Princ%C3%ADpios%20e%20Aplica%C3%A7%C3%B5es%20(Ronald%20J.%20Tocci%2C%20Neal%20S.%20Widmer%20etc.).pdf)
-- 
+
 ### Sites para treinar programação
 - [Coddy](https://coddy.tech/)
 - [CodeForces](https://codeforces.com/)
@@ -47,6 +47,7 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides07-bdII-202
 - [Stored Procedures](
 https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-2024.1-stored-procedures.pdf)
 - [Regras Ativas](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides11-bdII-2024.1-regras-ativas.pdf)
+- [PostgreSQL + Python](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/PDFsam_slides06-bdII-python-postgresql.pdf)
 ### POO
 - [Apostila](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOop8geSR-t8Y6FVgdOX0_z9S6ORX1iFEaL3OlcowtCliZtMYlOCr)
 - [Curso](https://www.cursoemvideo.com/curso/java-poo/)
