@@ -2,7 +2,7 @@
 
 # Areas
 - [revisar é sempre bom](#-revisão)
-- [front-end/design]()
+- [front-end/design](#-front-e-design)
 
 # Revisão
 ### Comece aqui
@@ -48,6 +48,7 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides07-bdII-202
 https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-2024.1-stored-procedures.pdf)
 - [Regras Ativas](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides11-bdII-2024.1-regras-ativas.pdf)
 - [PostgreSQL + Python](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/PDFsam_slides06-bdII-python-postgresql.pdf)
+- [Apostila SQL](https://www.alura.com.br/apostila-sql-e-modelagem-com-banco-de-dados)
 ### POO
 - [Apostila](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOop8geSR-t8Y6FVgdOX0_z9S6ORX1iFEaL3OlcowtCliZtMYlOCr)
 - [Curso](https://www.cursoemvideo.com/curso/java-poo/)
@@ -64,3 +65,10 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [05](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-05%20(1).pdf)
 - [06](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-06.pdf)
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Teste-de-invas%C3%A3o.pdf)
+
+# Front-end e Design
+### Sites legais
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Unsplash](https://unsplash.com/pt-br)
+- [App Alchemy](https://appalchemy.ai/)
