@@ -57,3 +57,9 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Fundamentos%20de%20sistemas%20operacionais%20(Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%20etc.).pdf)
 
 ### Segurança da Informação
+- [01](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-01%20(1).pdf)
+- [02](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-02%20(1).pdf)
+- [03](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-03%20(1).pdf)
+- [04](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-04%20(1).pdf)
+- [05](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-05%20(1).pdf)
+- [06](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-06.pdf)
