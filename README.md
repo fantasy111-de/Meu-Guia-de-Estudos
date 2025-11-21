@@ -154,6 +154,7 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 # Mobile
 ### Caminhos
 - [Android](https://roadmap.sh/android)
+- [Ionic Framework](https://gist.github.com/tomysmile/f5b91739d6672599a4bf)
 - 
 # Matemática
 - [Fundamentos Matemáticos](https://comunidade.ada.tech/cursos/6ae189ac-41d8-4ab2-9f52-13e05d29a22a)
@@ -161,26 +162,100 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Estatística](https://comunidade.ada.tech/cursos/604d0397-08a9-4dbd-9dbf-cb68a03cb29b)
 - [Algebra Linear](https://comunidade.ada.tech/cursos/f9e6a9ee-7d1d-47f4-b410-a072314697ad)
 # Dados
+
+### Caminhos
+- [Data Science](https://techguide.sh/pt-BR/path/data-science/)
+- [IA](https://techguide.sh/pt-BR/path/inteligencia-artificial/)
+- - [Machine Learning](https://roadmap.sh/r/machine-learning-ta74g)
+### Cursos
 - [Power Bi](https://comunidade.ada.tech/cursos/1eee88ef-d192-6e30-3956-dc3918e0accd)
 - [Introdução a Data Science](https://comunidade.ada.tech/cursos/af778260-7d53-4472-bb1c-519cfdafc2ba)
 - [Análise Exploratória de Dados](https://comunidade.ada.tech/cursos/1eeb3a86-b89e-61a0-02d7-0ed1956b9edc)
-- [Machine Learning](https://roadmap.sh/r/machine-learning-ta74g)
+
+### Livros
+- [Análise Exploratória com R](https://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf)
+- [Introdução ao R](https://pedropark99.github.io/Introducao_R/)
+- [PLN](https://brasileiraspln.com/livro-pln/)
+- [IA: Avanços e Tendências](https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/view/650/579/2181)
+- [Aplicações de Machine Learning](https://editorapantanal.com.br/ebooks/2021/aplicacoes-de-machine-learning/ebook.pdf)
+- [Mãos A Obra](https://github.com/kaladabrio2020/livro-aprendizado-de-maquina-sklearn-keras-tf)
+- 
 # Sistemas Embarcados
+
+### Cursos
+- [BitDogLab](https://www.youtube.com/@profjivago9719)
+- [Formação Linguagem C](https://drivedepobre.com/pasta/6fa2d7f179)
+### Livros
+- [Livro 1](https://www.ime.usp.br/~yoshi/2005i/mac328/)
+- [Algoritmos para Grafos](https://www.ime.usp.br/~pf/algoritmos_para_grafos/)
+- [Linguagem C](https://www.ime.usp.br/~slago/slago-C.pdf)
+- [Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/)
+
 # Back-end
-- [Node.js](https://comunidade.ada.tech/cursos/1eedb156-602c-6dc0-f842-1d1ecf6266a4)
 
 ### Caminhos
-[API Design](https://roadmap.sh/api-design)
+- [API Design](https://roadmap.sh/api-design)
+- [Node.js](https://techguide.sh/pt-BR/path/nodejs/)
+- [Backend](https://roadmap.sh/backend)
+
+### Cursos
+- [Django](https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C)
+- [Node.js](https://comunidade.ada.tech/cursos/1eedb156-602c-6dc0-f842-1d1ecf6266a4)
+- [Formação APIs com Node.js e Express](https://drivedepobre.com/pasta/c0a6659078)
+- [Formação Aprenda a programar em JavaScript com foco no back-end](https://drivedepobre.com/pasta/6ae78ee61e)
+- [Formação Aprofunde em Node.js com arquitetura Serverless](https://drivedepobre.com/pasta/35bcb9e4b4)
+- [Formação Autenticação, testes e segurança em Node.js](https://drivedepobre.com/pasta/97dc778d53)
+- [Formação Boas práticas em Node.js com TypeScript](https://drivedepobre.com/pasta/9a712180b8)
+- [Formação Começando com Flask: framework web de Python](https://drivedepobre.com/pasta/b6279b991f)
+- [Formação Django REST Framework: crie APIs com Python](https://drivedepobre.com/pasta/4240ccb1b3)
+- [Formação Django: crie aplicações em Python](https://drivedepobre.com/pasta/adb8f4deee)
+- [Formação Tópicos Avançados com Node.js](https://drivedepobre.com/pasta/8cbe4f0753)
+
+### Livros
+- [Desenvolvimento Web com Django](https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django/)
+- [Primeiros passos com Express.js](https://nodebr.com/primeiros-passos-com-express-em-node-js/)
+- [Node.js](https://udgwebdev.github.io/nodejs/)
+- [Construindo apis testáveis com node](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read)
+- [Raspagem de dados com node.js](https://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 # Extras
 ### Caminhos
 - [Devops](https://roadmap.sh/devops)
 - [Docker](https://roadmap.sh/docker)
+- [Empreendedorismo](https://techguide.sh/pt-BR/path/empreendedorismo/)
+- [Agile](https://techguide.sh/pt-BR/path/agile/)
+- [Fotografia](https://techguide.sh/pt-BR/path/photograph/)
+- [Cloud](https://techguide.sh/pt-BR/path/cloud/)
 
-[Prompt Engineering](https://comunidade.ada.tech/cursos/aecdf2da-83a3-4197-86c5-587e15f4eb98)
-[Como Utilizar LLMS produtivamente](https://comunidade.ada.tech/cursos/1eee5644-02fa-6a60-dfc9-330b96fd0975)
+### Cursos
+- [Formação Scripting: automatizando tarefas em DevOps](https://drivedepobre.com/pasta/f48633c750)
+- [Formação AWS: Observabilidade com CloudWatch e Containers com ECS e EKS](https://drivedepobre.com/pasta/e69090d90f)
+- [Formação Aprofunde em AWS com serviços de gerenciamento e operação](https://drivedepobre.com/pasta/d048c4daa5)
+- [Formação Azure](https://drivedepobre.com/pasta/ee8dc3a7d5)
+- [Formação Certificação AWS Certified Cloud Practitioner](https://drivedepobre.com/pasta/b92e7a5f93)
+- [Formação Certificação AZ-204: Microsoft Azure Developer Associate](https://drivedepobre.com/pasta/731e03e2cb)
+- [Formação Certificação AZ-900: Microsoft Azure Fundamentals](https://drivedepobre.com/pasta/67e53468c3)
+- [Formação Certificação Certified Solutions Architect - Associate](https://drivedepobre.com/pasta/219edcfd73)
+- [Formação Certificação Google Certified Associate Cloud Engineer](https://drivedepobre.com/pasta/581e7d46ed)
+- [Formação Começando na AWS com Lightsail, EC2, S3, VPC, RDS e DynamoDB](https://drivedepobre.com/pasta/743d7a387e)
+- [Formação FinOps para gestão financeira de cloud](https://drivedepobre.com/pasta/7ccde5b245)
+- [Formação GitOps e Entrega Contínua](https://drivedepobre.com/pasta/94ae33e3ae)
+- [Formação Google Cloud Platform](https://drivedepobre.com/pasta/0232aa2107)
+- [Formação Ferramentas essenciais para Devs](https://drivedepobre.com/pasta/c041fc54c9)
+- [Formação Infraestrutura como código](https://drivedepobre.com/pasta/d2793fdb3c)
+- [Formação Melhore sua aplicação Android com Testes Automatizados](https://drivedepobre.com/pasta/1294a57eb9)
+- [Formação Mensageria com Apache Kafka](https://drivedepobre.com/pasta/bbce9ba1a2)
+- [Formação Microsserviços com Kubernetes](https://drivedepobre.com/pasta/a3f7888023)
+- [Formação Orquestração de containers com Kubernetes](https://drivedepobre.com/pasta/bed33d9673)
+- [Formação SRE](https://drivedepobre.com/pasta/4252ed39c7)
+- [Prompt Engineering](https://comunidade.ada.tech/cursos/aecdf2da-83a3-4197-86c5-587e15f4eb98)
+- [Como Utilizar LLMS produtivamente](https://comunidade.ada.tech/cursos/1eee5644-02fa-6a60-dfc9-330b96fd0975)
 
-
+### Livros
+- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
+- [Guia da Computação em Nuvem](https://archive.org/details/guia-da-computacao-em-nuvem)
+- [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br/pt/)
+- [IoT](https://repositorio.fgv.br/server/api/core/bitstreams/b50af2ba-b001-4b1d-a1ad-5df985f6d1bb/content)
 # Ferramentas E APIs
 - [colab](https://colab.google/)
 - [fast f1 api](https://docs.fastf1.dev/)
