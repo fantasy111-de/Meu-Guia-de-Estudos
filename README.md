@@ -42,6 +42,10 @@
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Organiza%C3%A7%C3%A3o%20estruturada%20de%20computadores%20-%20Tanenbaum.pdf)
 
 ### Banco de Dados
+### Caminhos
+- [PostgreSQL](https://roadmap.sh/postgresql-dba)
+- [MongoDB](https://roadmap.sh/mongodb)
+- [SQL](https://roadmap.sh/sql)
 - [Curso Banco de Dados](https://comunidade.ada.tech/cursos/e82b3eb3-e58e-4ad7-b946-a034aa3ac508)
 - [Artigo Power Architect](https://www.alura.com.br/artigos/engenharia-direta-power-architect?srsltid=AfmBOortz1VZX7PL9KSBCpzfTG_JkIGduYG1yU1tERPMXLLOOzsqfv-r)
 - [Criação BD/Tabelas](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides01-bdII-2024.1-criacao-bd-tabelas.pdf)
@@ -76,6 +80,11 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [06](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-06.pdf)
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Teste-de-invas%C3%A3o.pdf)
 
+# Linguagens
+- [Python](https://roadmap.sh/python)
+- [TypeScript](https://roadmap.sh/typescript)
+- [React Native](https://roadmap.sh/react-native)
+- 
 # Documentações
 
 # Front-end e Design
@@ -143,6 +152,9 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Formação Criando uma aplicação acessível com JavaScript, Emotion e React Router](https://drivedepobre.com/pasta/9b53dbd6ec)
 
 # Mobile
+### Caminhos
+- [Android](https://roadmap.sh/android)
+- 
 # Matemática
 - [Fundamentos Matemáticos](https://comunidade.ada.tech/cursos/6ae189ac-41d8-4ab2-9f52-13e05d29a22a)
 - [Estatística com Python](https://comunidade.ada.tech/cursos/1ee9f40f-0769-6290-888f-6d652778c0bc)
@@ -152,6 +164,7 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Power Bi](https://comunidade.ada.tech/cursos/1eee88ef-d192-6e30-3956-dc3918e0accd)
 - [Introdução a Data Science](https://comunidade.ada.tech/cursos/af778260-7d53-4472-bb1c-519cfdafc2ba)
 - [Análise Exploratória de Dados](https://comunidade.ada.tech/cursos/1eeb3a86-b89e-61a0-02d7-0ed1956b9edc)
+- [Machine Learning](https://roadmap.sh/r/machine-learning-ta74g)
 # Sistemas Embarcados
 # Back-end
 - [Node.js](https://comunidade.ada.tech/cursos/1eedb156-602c-6dc0-f842-1d1ecf6266a4)
@@ -160,8 +173,13 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 [API Design](https://roadmap.sh/api-design)
 
 # Extras
+### Caminhos
+- [Devops](https://roadmap.sh/devops)
+- [Docker](https://roadmap.sh/docker)
+
 [Prompt Engineering](https://comunidade.ada.tech/cursos/aecdf2da-83a3-4197-86c5-587e15f4eb98)
 [Como Utilizar LLMS produtivamente](https://comunidade.ada.tech/cursos/1eee5644-02fa-6a60-dfc9-330b96fd0975)
+
 
 # Ferramentas E APIs
 - [colab](https://colab.google/)
