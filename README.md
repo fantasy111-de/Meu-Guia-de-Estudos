@@ -1,24 +1,42 @@
 # Meu-Guia-de-Estudos
 
-# Areas
+# INDEX
+- [linguagens](#-linguagens)
 - [revisar é sempre bom](#-revisão)
 - [front-end/design](#-front-e-design)
+- [back-end](#-back-end)
+- [mobile](#-mobile)
+- [matematica](#-matematica)
+- [dados](#-dados)
+- [extras](#-extras)
+- [ferramentas e apis](#-ferramentas-e-apis)
 
-# Revisão
-### Comece aqui
+# Linguagens
+
+### Documentação
+[Javascript](https://devdocs.io/javascript/)
+[C](https://devdocs.io/c/)
+[Cmake](https://devdocs.io/cmake/)
+[Python](https://devdocs.io/python~3.14/)
+[React Native](https://devdocs.io/react_native/)
+[React](https://devdocs.io/react/)
+[TypeScript](https://devdocs.io/typescript/)
+
+### Caminhos
+- [Python](https://roadmap.sh/python)
+- [TypeScript](https://roadmap.sh/typescript)
+- [React Native](https://roadmap.sh/react-native)
+- [React](https://roadmap.sh/react)
+- [Angular](https://roadmap.sh/angular)
+- [HTML](https://roadmap.sh/html)
+- [CSS](https://roadmap.sh/css)
+- [Javascript](https://roadmap.sh/javascript)
+  
+### Cursos
 - [Lógica de Programação com JS](https://comunidade.ada.tech/cursos/1eee6337-f72e-61e0-f36a-9477308320a9)
 - [Python: Noções Introdutórias](https://comunidade.ada.tech/cursos/ad77ffa3-6dde-4efb-9e0d-3b14e60b097b)
-- [Curso Hardware](https://www.cursoemvideo.com/curso/hardware/)
-- [Curso Bases Númericas](https://www.cursoemvideo.com/curso/bases-numericas/)
-- [Livro Sistemas Digitais](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Sistemas%20Digitais%20Princ%C3%ADpios%20e%20Aplica%C3%A7%C3%B5es%20(Ronald%20J.%20Tocci%2C%20Neal%20S.%20Widmer%20etc.).pdf)
-- [Curso Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
-- [Redes de Computadores e Internet](https://www.cursoemvideo.com/curso/curso-pratico-de-redes-de-computadores-e-internet-20-horas/)
-- [SEO M1](https://www.cursoemvideo.com/curso/curso-pratico-de-seo-modulo-01/)
-- [SEO M2](https://www.cursoemvideo.com/curso/curso-pratico-de-seo-modulo-02/)
-- [Excel](https://www.cursoemvideo.com/curso/excell/)
-- [Photoshop](https://www.cursoemvideo.com/curso/photoshop/)
-- [Introdução ao Java](https://comunidade.ada.tech/cursos/15530e28-9757-4e26-95c6-76ddbf1a30de)
 
+# Revisão
 ### Sites para treinar programação
 - [Coddy](https://coddy.tech/)
 - [CodeForces](https://codeforces.com/)
@@ -37,16 +55,25 @@
 - [Engenharia de Software](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/engenharia-de-software-8a-ed-pressman-compactado.pdf)
 
 ### Arquitetura/Redes de Computadores
+### Curso
 - [Curso](https://www.cursoemvideo.com/curso/redes-de-computadores/)
-- [Curso 2](https://www.cursoemvideo.com/curso/curso-pratico-de-redes-de-computadores-e-internet-20-horas/)
+### Livros
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Organiza%C3%A7%C3%A3o%20estruturada%20de%20computadores%20-%20Tanenbaum.pdf)
-
+https://www.alura.com.br/apostila-html-css-javascript
+https://github.com/badtuxx/DescomplicandoGit
+https://www.ime.usp.br/~pf/teoriadosgrafos/
+https://www.ime.usp.br/~pf/otimizacao-combinatoria/
+https://www.tsouanas.org/fmcbook/
+https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf
+https://www.ime.usp.br/~pf/analise_de_algoritmos/
 ### Banco de Dados
 ### Caminhos
 - [PostgreSQL](https://roadmap.sh/postgresql-dba)
 - [MongoDB](https://roadmap.sh/mongodb)
 - [SQL](https://roadmap.sh/sql)
+### Cursos
 - [Curso Banco de Dados](https://comunidade.ada.tech/cursos/e82b3eb3-e58e-4ad7-b946-a034aa3ac508)
+### Livros/Artigos/Slides
 - [Artigo Power Architect](https://www.alura.com.br/artigos/engenharia-direta-power-architect?srsltid=AfmBOortz1VZX7PL9KSBCpzfTG_JkIGduYG1yU1tERPMXLLOOzsqfv-r)
 - [Criação BD/Tabelas](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides01-bdII-2024.1-criacao-bd-tabelas.pdf)
 - [DML](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides02-bdII-2024.1-DML.pdf)
@@ -63,13 +90,34 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Regras Ativas](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides11-bdII-2024.1-regras-ativas.pdf)
 - [PostgreSQL + Python](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/PDFsam_slides06-bdII-python-postgresql.pdf)
 - [Apostila SQL](https://www.alura.com.br/apostila-sql-e-modelagem-com-banco-de-dados)
+- 
 ### POO
+
+### Apostila
 - [Apostila](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOop8geSR-t8Y6FVgdOX0_z9S6ORX1iFEaL3OlcowtCliZtMYlOCr)
+### Curso
 - [Curso](https://comunidade.ada.tech/cursos/cd449d0e-2e76-4c72-bbdf-98fcb8b80c86)
 
 ### Sistemas Operacionais
 - [Curso Linux](https://www.cursoemvideo.com/curso/linux/)
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Fundamentos%20de%20sistemas%20operacionais%20(Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%20etc.).pdf)
+- [Livro](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf)
+
+
+
+# Revisão
+### Comece aqui
+- [Curso Hardware](https://www.cursoemvideo.com/curso/hardware/)
+- [Curso Bases Númericas](https://www.cursoemvideo.com/curso/bases-numericas/)
+- [Livro Sistemas Digitais](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Sistemas%20Digitais%20Princ%C3%ADpios%20e%20Aplica%C3%A7%C3%B5es%20(Ronald%20J.%20Tocci%2C%20Neal%20S.%20Widmer%20etc.).pdf)
+- [Curso Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+- [Redes de Computadores e Internet](https://www.cursoemvideo.com/curso/curso-pratico-de-redes-de-computadores-e-internet-20-horas/)
+- [SEO M1](https://www.cursoemvideo.com/curso/curso-pratico-de-seo-modulo-01/)
+- [SEO M2](https://www.cursoemvideo.com/curso/curso-pratico-de-seo-modulo-02/)
+- [Excel](https://www.cursoemvideo.com/curso/excell/)
+- [Photoshop](https://www.cursoemvideo.com/curso/photoshop/)
+- [Introdução ao Java](https://comunidade.ada.tech/cursos/15530e28-9757-4e26-95c6-76ddbf1a30de)
+
 
 ### Segurança da Informação
 - [01](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/SI-01%20(1).pdf)
@@ -81,10 +129,13 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 - [Livro](https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/Teste-de-invas%C3%A3o.pdf)
 
 # Linguagens
-- [Python](https://roadmap.sh/python)
-- [TypeScript](https://roadmap.sh/typescript)
-- [React Native](https://roadmap.sh/react-native)
-- 
+
+- [Livro](https://www.maiconsilva.com/starting-typescript/)
+- https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf
+- https://python-guide-pt-br.readthedocs.io/pt_BR/latest/
+- https://www.alura.com.br/apostila-python-orientacao-a-objetos
+- https://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf
+- https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf
 # Documentações
 
 # Front-end e Design
@@ -109,11 +160,7 @@ https://github.com/fantasy111-de/Meu-Guia-de-Estudos/blob/main/slides10-bdII-202
 
 ### Caminhos (Front-end)
 - [Front-end](https://roadmap.sh/frontend)
-- [React](https://roadmap.sh/react)
-- [Angular](https://roadmap.sh/angular)
-- [HTML](https://roadmap.sh/html)
-- [CSS](https://roadmap.sh/css)
-- [Javascript](https://roadmap.sh/javascript)
+
 
 ### Cursos de Front-end
 - [Wordpress](https://drivedepobre.com/pasta/96e17f088c)
